@@ -1,0 +1,4 @@
+PyQt6>=6.6
+requests>=2.31
+requests[socks]>=2.31
+pyinstaller>=6.0
